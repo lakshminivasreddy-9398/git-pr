@@ -6,3 +6,7 @@ ls
 cd ../dir2
 ls
 sudo su
+ls
+cd nanigitpr
+ls
+sudo su
